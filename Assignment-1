@@ -1,0 +1,41 @@
+*-expression
+'hello'-value
+-87.8-value
+--expression
+/-expression
++-expression
+6-value.
+
+2)string:string can be written quotes
+Gample:"banana","banana".
+variable:it is the thing in which we can store datajust like
+a container.
+
+3)List:list is used for storing multiple items in a single variable
+integer:integer can be store only numerical values.
+Float:float can store only floating values.
+Gample:322.22,22.2,etc
+
+4)expression i9 made up of values ,constraints and mathematical operator
+(operands)
+example:-a=2+3 and expression are used to evaluate
+the values or represent the result in the screen.
+
+5)expression is made up of valuea ,container,and mathematical
+operator (operand)and the statement in just like a conmand
+that a python interpreter executes like print
+
+
+6)23 as execution code .
+
+7)same 
+
+8)we cant start giving variabke an integer name .it was
+should begin with a string like alphabet.
+name then integer e100 or eggs 100 iQ valid.
+
+9)str(),int(),float()
+
+10)because i9 iQ an integer it cant be concatenated with
+strings ,it was have to concatenated it we need
+to do type casting.
